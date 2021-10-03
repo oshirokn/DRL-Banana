@@ -80,9 +80,9 @@ The Neural Networks are composed of one input layer (state space = 37), 2 fully 
 The agent was successfully trained in 419 episodes, achieving an average score of 13 for 100 episodes (between episodes 419 and 519 episodes). 
 This successfully meet the objectives of the project instructions (achieving an average score of at least 13 over 100 episodes). 
 
-![image](https://user-images.githubusercontent.com/24456678/135748226-bc28e9a3-1f7d-4a75-b978-8795f43c1a56.png | width=250 )
+![image](https://user-images.githubusercontent.com/24456678/135748226-bc28e9a3-1f7d-4a75-b978-8795f43c1a56.png)
 
-![image](https://user-images.githubusercontent.com/24456678/135748278-2c08ebc9-61f0-4044-a5b1-8ba747138cc5.png | width=250 )
+![image](https://user-images.githubusercontent.com/24456678/135748278-2c08ebc9-61f0-4044-a5b1-8ba747138cc5.png)
 
 
 # Ideas for improvement
