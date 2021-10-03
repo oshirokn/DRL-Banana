@@ -80,9 +80,9 @@ The Neural Networks are composed of one input layer (state space = 37), 2 fully 
 The agent was successfully trained in 419 episodes, achieving an average score of 13 for 100 episodes (between episodes 419 and 519 episodes). 
 This successfully meet the objectives of the project instructions (achieving an average score of at least 13 over 100 episodes). 
 
-![image](https://user-images.githubusercontent.com/24456678/135748226-bc28e9a3-1f7d-4a75-b978-8795f43c1a56.png)
+![image](https://user-images.githubusercontent.com/24456678/135748226-bc28e9a3-1f7d-4a75-b978-8795f43c1a56.png | width=250 )
 
-![image](https://user-images.githubusercontent.com/24456678/135748278-2c08ebc9-61f0-4044-a5b1-8ba747138cc5.png)
+![image](https://user-images.githubusercontent.com/24456678/135748278-2c08ebc9-61f0-4044-a5b1-8ba747138cc5.png | width=250 )
 
 
 # Ideas for improvement
@@ -99,6 +99,7 @@ As stated in the Udacity Nanodegree course, a few improvements could be made:
 > We propose a specific adaptation to the DQN algorithm and show that the resulting algorithm not only reduces the observed overestimations, as hypothesized, but that this also leads to much better performance on several games.
 
 From udacity Nanodegree course:
+
 ![image](https://user-images.githubusercontent.com/24456678/135748536-346be61a-a129-4beb-8847-ba0ddaa06606.png)
 ![image](https://user-images.githubusercontent.com/24456678/135748541-89fb4abc-1a45-4500-9ca7-05b40917c61e.png)
 
@@ -123,5 +124,5 @@ From udacity Nanodegree course:
 More improvements exist (Learning from multi-step bootstrap targets, Distributional DQN, Noisy DQN).
 By incorporating all 6 of them, the research team at Google DeepMind created the [Rainbow algorithm](https://arxiv.org/abs/1710.02298), outperforming all the previous individual modifications.
 
-![image](https://user-images.githubusercontent.com/24456678/135748671-21399cd9-3d9d-4d77-86c1-a58f76bfa081.png)
+![image](https://user-images.githubusercontent.com/24456678/135749408-2f01cde9-c897-449f-8c7d-181c68d461f8.png)
 
