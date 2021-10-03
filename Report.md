@@ -51,7 +51,7 @@ This code is a slightly modified implementation of the "Lunar Lander" tutorial f
 
 - model.py: a PyTorch QNetwork class implementation. It initializes a Deep Neural Network composed of:
   -   an input layer (size depending on the state_size parameter)
-  -   two hidden layers (in this example, ran with 64 cells each) 
+  -   two hidden layers (units as parameters) 
   -   one output layer (size depending on the action_size parameter)
 - dqn_agent.py: DQN Agent Class and a Replay Buffer class implementation
   - DQN Agent implements the following methods: 
